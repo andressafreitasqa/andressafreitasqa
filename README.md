@@ -5,7 +5,7 @@ Olá! Seja bem vindE! Coisa boa ter você por aqui =)
 
 > Estou fazendo mentorias para  me aperfeiçoar em testes manuais e automatizados.
 
-> Posso colaborar com conhecimentos em técnicas e tipos de testes, bem como heurística.
+> Tenho conhecimento e posso colaborar em técnicas e tipos de testes, bem como, heurística.
 
 Meu contato é: https://www.linkedin.com/in/andressafreitasqa/
 wpp: 31 9 97448999
